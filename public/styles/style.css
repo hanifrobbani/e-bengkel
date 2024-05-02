@@ -1,0 +1,40 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.box-login {
+    background-color: #0d6efd;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 6px;
+    transition: 0.3s ease-in-out;
+}
+
+.login-btn {
+    color: white;
+}
+
+.icon {
+    transition: 0.1s linear;
+    color: #66667777;
+    font-weight: 500;
+}
+.icon:hover, .icon.active{
+    color: black;
+}
+
+/* .icon:hover {
+      font-weight: bold;
+    } */
+
+.login-btn:hover,
+.box-login:hover {
+    color: white;
+    background-color: #0dcaf0;
+}
+
+main {
+    margin-top: 150px;
+}
