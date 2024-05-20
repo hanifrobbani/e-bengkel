@@ -65,11 +65,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-# Sistem Manajemen Bengkel menggunakan Laravel
-
-
-## Deskripsi Proyek
-Proyek ini adalah sebuah website yang dikembangkan menggunakan framework Laravel untuk membangun sistem manajemen bengkel. Sistem ini dirancang untuk membantu bengkel otomotif dalam mengelola berbagai aspek bisnis mereka, mulai dari manajemen pelanggan, inventaris suku cadang, hingga manajemen keuangan.
-
-Code By: 'Hanif'.
+Code By: _Hanif_.
